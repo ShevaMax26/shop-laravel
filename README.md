@@ -1,3 +1,9 @@
+## <h2 style="color:#ba363f">Installation</h2>
+``` 
+    composer install
+    php artisan app:install
+```
+
 ## Dev tips
 ```
 docker-compose build --no-cache
